@@ -93,11 +93,27 @@ body {
 	}
 
 .top_rectangle_2 {
-	width: 60px;
-	height: 7px;
-	border: #555 solid 1px;
+	width: 58px;
+	height: 6px;
+	border: #555 solid 2px;
 	background-color: #999;
 	margin: auto;
-	margin-top: 10px;
 	border-radius: 4px
 	}
+
+.camera {
+	width: 5px;
+	height: 5px;
+	border: #333 solid 5px;
+	border-radius: 100%;
+	/*background-color: blue;
+	*/background: radial-gradient(circle,gray 3%, green 20%, blue 60%);
+	margin-left: -20px;
+	margin-top: -13px;
+}
+
+.camera_row{
+	width: 100px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
