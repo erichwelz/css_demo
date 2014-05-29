@@ -67,18 +67,18 @@ body {
 	height: 55px;
 	border: #666 solid 1px;
 	border-radius: 100%;
-	background-color: white;
+	background-color: #f5f5f5;
 	margin: auto;
 	margin-top: 15px;
 }
 
 .home_insert {
-	width: 23px;
-	height: 23px;
+	width: 21px;
+	height: 21px;
 	border: #888 solid 2px;
 	background-color: white;
 	margin: auto;
-	margin-top: 14px;
+	margin-top: 15px;
 	border-radius: 5px
 	}
 
@@ -106,8 +106,8 @@ body {
 	height: 5px;
 	border: #333 solid 5px;
 	border-radius: 100%;
-	/*background-color: blue;
-	*/background: radial-gradient(circle,gray 3%, green 20%, blue 60%);
+	/*background-color: blue; */
+	background: radial-gradient(circle,gray 3%, green 20%, blue 60%);
 	margin-left: -20px;
 	margin-top: -13px;
 }
