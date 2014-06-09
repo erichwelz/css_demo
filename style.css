@@ -1,7 +1,6 @@
 body {
 	text-align: center;
-	background-color: black;
-	
+	background-color: black;	
 }
 
 .top_button {
@@ -43,6 +42,7 @@ body {
 	position: absolute;
 }
 .main_phone {
+	top:10%;
 	width: 320px;
 	height: 550px;
 	border: #bbb solid 3px;
